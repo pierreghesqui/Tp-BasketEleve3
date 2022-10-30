@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/pierreghesqui/TP-basketEleve/main?labpath=TP-Basket_eleve.ipynb
+https://mybinder.org/v2/gh/pierreghesqui/Tp-BasketEleve3/main?labpath=TP-Basket_eleve.ipynb
 
 Version Prof : https://mybinder.org/v2/gh/pierreghesqui/TP-basket/main?labpath=TP-Basket.ipynb 
-Version Prof raccourci : https://tinyurl.com/tpcue3
+Version Prof raccourci : https://tinyurl.com/tpcue4
